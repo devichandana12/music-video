@@ -1,0 +1,110 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "Sanam Theri Kasam",
+      "thumbnail": "https://images.indianexpress.com/2016/02/sanamterikasam.jpg",
+      "url": "https://www.youtube.com/embed/5V04DETPF0o"
+    },
+    {
+      "id": "2",
+      "caption": "Pathaan",
+      "thumbnail": "https://d30ny7ijak9wq4.cloudfront.net/s3fs-public/images/story/2022/12/14/pathaan.jpg",
+      "url": "https://www.youtube.com/embed/huxhqphtDrM"
+    }
+  ],
+  "categories": [
+    {
+      "id": "2",
+      "name": "song",
+      "allVideos": [
+        {
+          "id": "1",
+          "caption": "Sanam Theri Kasam",
+          "thumbnail": "https://images.indianexpress.com/2016/02/sanamterikasam.jpg",
+          "url": "https://www.youtube.com/embed/rfiaZ-PX01o"
+        },
+        {
+          "id": "1",
+          "caption": "Sanam Theri Kasam",
+          "thumbnail": "https://images.indianexpress.com/2016/02/sanamterikasam.jpg",
+          "url": "https://www.youtube.com/embed/5V04DETPF0o"
+        },
+        {
+          "id": "1",
+          "caption": "Sanam Theri Kasam",
+          "thumbnail": "https://images.indianexpress.com/2016/02/sanamterikasam.jpg",
+          "url": "https://www.youtube.com/embed/5V04DETPF0o"
+        },
+        {
+          "id": "2",
+          "caption": "Pathaan",
+          "thumbnail": "https://d30ny7ijak9wq4.cloudfront.net/s3fs-public/images/story/2022/12/14/pathaan.jpg",
+          "url": "https://www.youtube.com/embed/huxhqphtDrM"
+        }
+      ]
+    }
+  ],
+  "watch_history": [
+    {
+      "id": "1",
+      "cardName": "Sanam Theri Kasam",
+      "url": "https://www.youtube.com/embed/rfiaZ-PX01o",
+      "date": "10-11-2023"
+    },
+    {
+      "id": "896d3d46-b62a-40c9-8a1d-faa8f4c839d0",
+      "cardName": "Sanam Theri Kasam",
+      "url": "https://www.youtube.com/embed/rfiaZ-PX01o",
+      "date": "2023-11-14T10:58:10.914Z"
+    },
+    {
+      "id": "67cac519-b3dd-4826-beff-70d0e495581e",
+      "cardName": "Sanam Theri Kasam",
+      "url": "https://www.youtube.com/embed/rfiaZ-PX01o",
+      "date": "2023-11-14T10:58:12.973Z"
+    },
+    {
+      "id": "7e740777-d097-4a44-824c-f01c31b8d257",
+      "cardName": "Sanam Theri Kasam",
+      "url": "https://www.youtube.com/embed/rfiaZ-PX01o",
+      "date": "2023-11-14T10:59:33.931Z"
+    },
+    {
+      "id": "37121c29-167d-48d3-983c-a39953dc7f52",
+      "cardName": "Home",
+      "url": "https://www.youtube.com/embed/YOMR6bKFitM",
+      "date": "2023-11-14T11:01:36.282Z"
+    },
+    {
+      "id": "39889cae-57f1-411e-af5b-4f741868f701",
+      "cardName": "Sanam Theri Kasam",
+      "url": "https://www.youtube.com/embed/rfiaZ-PX01o",
+      "date": "2023-11-20T04:33:10.041Z"
+    },
+    {
+      "id": "76d54740-eba9-4168-aad2-e97f4befe32b",
+      "cardName": "Sanam Theri Kasam",
+      "url": "https://www.youtube.com/embed/rfiaZ-PX01o",
+      "date": "2023-11-20T04:43:42.746Z"
+    },
+    {
+      "id": "3bb6ff92-dae8-48c4-81fc-35c7edf4e289",
+      "cardName": "Sanam Theri Kasam",
+      "url": "https://www.youtube.com/embed/rfiaZ-PX01o",
+      "date": "2023-11-20T10:14:06.848Z"
+    },
+    {
+      "id": "bb918235-4fc7-4959-8eab-96f83e54a303",
+      "cardName": "Sanam Theri Kasam",
+      "url": "https://www.youtube.com/embed/rfiaZ-PX01o",
+      "date": "2023-11-20T10:50:41.789Z"
+    },
+    {
+      "id": "045e1be2-c85c-4922-8eb8-2027b80dc5b9",
+      "cardName": "Sanam Theri Kasam",
+      "url": "https://www.youtube.com/embed/5V04DETPF0o",
+      "date": "2023-11-21T10:18:16.765Z"
+    }
+  ]
+}
